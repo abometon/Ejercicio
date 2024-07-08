@@ -9,12 +9,11 @@ Para ello seguiréis estos pasos:
 1. Editar un archivo existente.
 2. Consultar el estado entre el repo y nuestro local.
 3. Añadir archivo con cambios.
-4. Commit con mensaje.
 5. Pull Request.
 6. Hacer cambios.
 7. Commit... 
 
-
+cambio cambio cambio
 aquí vamos a introducir un cambio
 por queeeeeeeeeeee
 otro cambio
