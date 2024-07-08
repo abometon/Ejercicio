@@ -1,7 +1,6 @@
 Este repositorio es únicamente de prueba para que aprendáis a clonar, forkear, añadir, commitear...
 
 Vais a tener que clonar el repositorio.
-Forkearlo.
 Crear el upstream.
 Hacer pull del upstream.
 
@@ -18,3 +17,7 @@ Para ello seguiréis estos pasos:
 
 aquí vamos a introducir un cambio
 por queeeeeeeeeeee
+otro cambio
+
+
+cambio
